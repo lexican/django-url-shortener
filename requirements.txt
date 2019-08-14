@@ -1,0 +1,2 @@
+django>=2.2.4 
+pip=19.2.1 Only needed for running this app. 
